@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Hazie/App.axaml" value="Hazie/Hazie.csproj" />
+        <entry key="Hazie/Views/MainWindow.axaml" value="Hazie/Hazie.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
